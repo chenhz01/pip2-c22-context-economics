@@ -1,0 +1,23 @@
+[
+  {
+    "id": "L82",
+    "cluster": "c22 上下文经济学",
+    "name": "缓存感知剪枝",
+    "dir": "L82-cache-aware-prune",
+    "loc": 34
+  },
+  {
+    "id": "L83",
+    "cluster": "c22 上下文经济学",
+    "name": "双阈值充足度",
+    "dir": "L83-context-dual-threshold",
+    "loc": 37
+  },
+  {
+    "id": "L84",
+    "cluster": "c22 上下文经济学",
+    "name": "相关性邻接度",
+    "dir": "L84-relevance-adjacency",
+    "loc": 38
+  }
+]
